@@ -42,5 +42,5 @@ I am a Frontend Developer with **4+ years of commercial experience**, currently 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chronosilver&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats" />
 </div>
