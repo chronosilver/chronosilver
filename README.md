@@ -1,45 +1,46 @@
-🚀 Привет! Я Frontend-разработчик 
+<div align="center">
 
-Сейчас я нахожусь в поиске новых возможностей, готова к работе в международной команде
-Готова к релокации и открыта для удаленной работы
-<br>
+# Hi, I'm [Твое Имя] 👋
 
-💡 Мой Стек Технологий (Tech Stack)
-Мой основной набор инструментов и технологий:
+### Middle+ Frontend Developer | React & TypeScript Expert
 
-Языки: JavaScript (ES6+), TypeScript (для масштабируемых приложений)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](ТВОЯ_ССЫЛКА_НА_LINKEDIN)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](ТВОЯ_ССЫЛКА_НА_TG)
+[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ТВОЙ_EMAIL)
 
-Библиотеки/Фреймворки: React.js (с хуками), Next.js (понимание логики), Redux/Redux Toolkit (для управления состоянием)
+<br />
 
-Стилизация: CSS3, Sass/SCSS, Styled-Components, Tailwind CSS
+> *Creating scalable interfaces, optimizing performance, and exploring the Web3 frontier.*
 
-Сборка/Инструменты: Webpack, Vite, npm/yarn
+</div>
 
-Тестирование: Jest, React Testing Library (RTL)
+---
 
-Контроль версий: Git & GitHub
+### 🚀 Experience & Focus
 
-Цель: Не просто писать код, а билдить полезное
+I am a Frontend Developer with **4+ years of commercial experience**, currently crafting high-load enterprise solutions at **Only** (Top Digital Agency). Previously, I acted as a **Team Lead** at a TravelTech startup, managing development processes and team growth.
 
-🌐 Языки и Коммуникация
-Русский (Ru): Родной.
+* 🔭 **Currently working on:** Complex SPA for Tier-1 clients (FinTech, Industrial).
+* 🤝 **Leadership:** Experience in mentoring, code reviews, and Scrum implementation.
+* 💎 **Web3 Interest:** Building dApps, integrating wallets (Wagmi/Ethers), and reading Solidity.
 
-Английский (En): Свободно/Upper-Intermediate (готовность к работе в англоговорящей среде).
+---
 
-💼 Ищу Работу
-Я заинтересован в позициях Frontend Developer или Full-Stack Developer в компаниях, которые ценят качество продукта и командную работу.
+### 🛠 Tech Stack
 
-Мой CV/Резюме: [Ссылка на твое резюме/CV]
+<div align="center">
 
-Мой LinkedIn: [Ссылка на твой LinkedIn-профиль]
+| Core | Frameworks & State | Web3 & Tools |
+| :---: | :---: | :---: |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-E-mail: [Твой адрес электронной почты]
+</div>
 
-Буду рад обсудить потенциальные возможности!
+---
 
-📈 Некоторые из Моих Проектов
-[Название Проекта 1]: Краткое описание, что это и какие технологии использованы.
+### 📈 GitHub Stats
 
-[Название Проекта 2]: Краткое описание, что это и какие технологии использованы.
-
-[Название Проекта 3]: Краткое описание, что это и какие технологии использованы.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats" />
+</div>
