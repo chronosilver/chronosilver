@@ -4,9 +4,9 @@
 
 ### Middle+ Frontend Developer | React & TypeScript Expert
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](ТВОЯ_ССЫЛКА_НА_LINKEDIN)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](ТВОЯ_ССЫЛКА_НА_TG)
-[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ТВОЙ_EMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](LINKEDIN)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/silverchrono)
+[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anastasia.tova.pm@gmail.com)
 
 <br />
 
