@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Твое Имя] 👋
+# Hi, I'm Stacy 👋
 
 ### Middle+ Frontend Developer | React & TypeScript Expert
 
@@ -37,10 +37,5 @@ I am a Frontend Developer with **4+ years of commercial experience**, currently 
 
 </div>
 
----
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chronosilver&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="stats" />
-</div>
