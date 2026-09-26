@@ -51,9 +51,11 @@ Frontend Developer with **4+ years of commercial experience**.
 * A zone-based grid layout system instead of hand-placed coordinates
 * Built with React, TypeScript and Remotion, in collaboration with an AI agent
 
-**Design System** — *in progress* 🚧
-* Token architecture, component library and documentation in **Storybook**
-* Focus on migration and scaling: how a system grows without breaking the products built on it
+**[RU Asia Marketplace](https://github.com/ru-asia-marketplace) · Telegram Classifieds** — UI system migration & scaling 🚧
+* My role: migrating the product's UI onto a unified design system and scaling its component library
+* Design tokens, reusable components and documentation in **Storybook**
+* Focus: how a system grows without breaking the product built on it
+* *Private repository — details on request*
 
 ---
 
